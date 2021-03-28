@@ -1,7 +1,7 @@
 # FrontendAngular
 
-###This application needs to run the next application: https://github.com/mitka0260/backendJavaSpring
-####(running instruction in a file: README.md)
+This application needs to run the next application: https://github.com/mitka0260/backendJavaSpring
+(running instruction in a file: README.md)
 
 ## SETUP:
 To start this application you need to:
