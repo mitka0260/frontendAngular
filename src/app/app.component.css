@@ -1,0 +1,19 @@
+table {
+  width: 80%;
+}
+
+table, th, td {
+  alignment: center;
+  /*border: 0px solid black;*/
+  text-align: center;
+}
+
+td {
+  width: 10%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
